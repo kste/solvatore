@@ -1,4 +1,5 @@
-
+# H. Hadipour
+# 10 Nov 2018
 from itertools import combinations
 from solvatore import Solvatore
 from cipher_description import CipherDescription
