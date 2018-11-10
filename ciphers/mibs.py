@@ -1,5 +1,5 @@
-
-
+# H. Hadipour 
+# 10 Nov 2018
 from cipher_description import CipherDescription
 
 size = 64
