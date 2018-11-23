@@ -15,8 +15,7 @@ solver.set_rounds(rounds)
 
 # Look over all combination for one non active bit
 block_size = 64
-#for bits in combinations(range(block_size), 1):
-for bits in [range(63, block_size)]:
+for bits in combinations(range(block_size), 1):
     constant_bits = bits
     active_bits = {i for i in range(block_size) if i not in constant_bits}
 
