@@ -7,7 +7,7 @@ from cipher_description import CipherDescription
 from ciphers import mibs
 
 cipher = mibs.mibs
-rounds = 9
+rounds = 6
 
 solver = Solvatore()
 solver.load_cipher(cipher)
