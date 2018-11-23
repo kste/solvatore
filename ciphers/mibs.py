@@ -60,8 +60,3 @@ for nibble in range(8):
 
 # Swap
 mibs.shufflewords(shuffle1, 32, 0)
-
-
-
-
-
