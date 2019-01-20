@@ -104,7 +104,7 @@ Next, we will test for each position whether the bit is *balanced* after 9 round
 
 # References
 
-[1] [Finding Integral Distinguishers with Ease](https://eprint.iacr.org/2018/xxxx)
+[1] [Finding Integral Distinguishers with Ease](https://eprint.iacr.org/2018/688.pdf)
 
 [2] [Bit-Based Division Property and Application to Simon Family](https://eprint.iacr.org/2016/285)
 
